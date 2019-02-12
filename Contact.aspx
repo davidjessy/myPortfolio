@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous' />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -37,7 +37,7 @@
             <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="index.aspx">Home</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="default.aspx">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="About.aspx">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="Contact.aspx">Contact</a></li>
                         <li class="nav-item"><a class="nav-link" href="Project.aspx">Projects</a></li>

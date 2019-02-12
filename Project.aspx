@@ -29,7 +29,7 @@
             <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active"><a class="nav-link" href="index.aspx">Home</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="default.aspx">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="About.aspx">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="Contact.aspx">Contact</a></li>
                         <li class="nav-item"><a class="nav-link" href="Project.aspx">Projects</a></li>
