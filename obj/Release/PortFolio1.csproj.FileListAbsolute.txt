@@ -53,3 +53,4 @@ C:\Users\phile\source\repos\PortFolio1\PortFolio1\obj\Release\PortFolio1.csproj.
 C:\Users\phile\source\repos\PortFolio1\PortFolio1\obj\Release\PortFolio1.csproj.CopyComplete
 C:\Users\phile\source\repos\PortFolio1\PortFolio1\obj\Release\PortFolio1.dll
 C:\Users\phile\source\repos\PortFolio1\PortFolio1\obj\Release\PortFolio1.pdb
+C:\Users\phile\source\repos\PortFolio1\PortFolio1\obj\Release\PortFolio1.csprojAssemblyReference.cache
